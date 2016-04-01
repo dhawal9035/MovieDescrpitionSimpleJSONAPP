@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MovieDescrpitionApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="back_to_list">BackToList</string>
+
+    <string-array name="genre">
+        <item>Adventure</item>
+        <item>Action</item>
+        <item>Drama</item>
+        <item>War</item>
+        <item>Thriller</item>
+        <item>Comedy</item>
+        <item>Sci-Fi</item>
+        <item>Mystery</item>
+        <item>Fantasy</item>
+        <item>Biography</item>
+        <item>Animation</item>
+    </string-array>
+</resources>
